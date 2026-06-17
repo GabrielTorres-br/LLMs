@@ -12,6 +12,8 @@
 ## Introdução
 Este projeto tem como objetivo explorar o uso da plataforma NotebookLM como ferramenta de aprendizagem ativa aplicada ao estudo de transporte, Logística e tecnologia no setor logístico brasileiro com ênfase em transporte rodoviário. A proposta consiste em utilizar diferentes fontes técnicas e acadêmicas para treinar a inteligência artificial, avaliar sua capacidade de interpretação e comparar a qualidade das respostas geradas com outros modelos de IA, como o ChatGPT. O estudo busca demonstrar como a inteligência artificial pode auxiliar na organização do conhecimento, análise crítica e construção de conteúdos de apoio ao aprendizado profissional.
 
+Link: https://notebooklm.google.com/notebook/2f5f583f-a319-42ca-9679-dbc98fd50dfc
+
 ## Principais fontes de referência:
 
 1. Tese de Doutorado de Amir Mattar Valente. (1994): "Um sistema de apoio à decisão para o planejamento de fretes e programação de frotas no TRC". UFSC.
